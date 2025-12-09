@@ -28,10 +28,20 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Sponsor (executive oversight and approvals)
+  - Project Manager (delivery coordination)
+  - Product Manager (product vision and backlog)
+  - Scrum Master (Agile facilitation, if applicable)
+  - Business Analyst (requirements clarification, if needed)
+  - UX Designer (user experience design, if applicable)
+  - Developers (implementation)
+  - Other stakeholders
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Sponsor approval to proceed with project charter
+- [ ] Key roles identified (PM, Product Manager, Scrum Master if Agile, BA if complex requirements, UX Designer if user-facing)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
@@ -39,5 +49,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear
+- Sponsor approval received
 - Stakeholders agree on priority
 - Team availability is confirmed
+- Key roles assigned (at minimum: PM, Product Manager, and technical lead)
