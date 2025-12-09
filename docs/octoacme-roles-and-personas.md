@@ -214,13 +214,13 @@ This matrix shows key collaboration points between all roles:
 
 | Role | Primary Collaborators | Key Handoffs |
 |------|----------------------|--------------|
-| **Developers** | PM, Product Manager, Scrum Master, BA, UX Designer | Code reviews, technical feasibility input, implementation updates |
-| **Product Manager** | PM, Developers, BA, UX Designer, Sponsor, Stakeholders | Backlog prioritization, acceptance criteria, success metrics |
+| **Developers** | Project Manager, Product Manager, Scrum Master, Business Analyst, UX Designer | Code reviews, technical feasibility input, implementation updates |
+| **Product Manager** | Project Manager, Developers, Business Analyst, UX Designer, Sponsor, Stakeholders | Backlog prioritization, acceptance criteria, success metrics |
 | **Project Manager** | All roles | Project plans, status reports, risk register, resource coordination |
-| **Scrum Master** | Developers, PM, Product Manager | Sprint planning, velocity metrics, impediment escalation |
+| **Scrum Master** | Developers, Project Manager, Product Manager | Sprint planning, velocity metrics, impediment escalation |
 | **Business Analyst** | Product Manager, Developers, Stakeholders, UX Designer | Requirements documentation, acceptance criteria, UAT coordination |
-| **UX Designer** | Product Manager, Developers, BA | Design specs, prototypes, usability findings |
-| **Sponsor** | PM, Product Manager | Strategic decisions, funding approvals, executive escalations |
+| **UX Designer** | Product Manager, Developers, Business Analyst | Design specs, prototypes, usability findings |
+| **Sponsor** | Project Manager, Product Manager | Strategic decisions, funding approvals, executive escalations |
 
 ---
 
