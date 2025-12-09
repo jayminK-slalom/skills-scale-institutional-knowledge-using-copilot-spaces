@@ -23,6 +23,8 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- PM coordinates overall communication with input from Product Manager, Scrum Master, and BA
+- Sponsor communicates project status at executive level and secures organizational support
 
 ## Communication Templates
 Weekly Status Template:
@@ -38,5 +40,7 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- Team-level (Developer/BA/UX Designer) -> Scrum Master (for blockers) or PM (for project issues)
+- PM -> Product Lead -> Sponsor (for strategic decisions and resource needs)
 - For security incidents, follow the security incident runbook and notify Security on-call
+- For organizational or political blockers, escalate directly to Sponsor
