@@ -30,6 +30,7 @@ At OctoAcme, we follow a customer-first, iterative delivery approach with clear 
 
 To dive deeper into any aspect of our project management approach, explore the detailed guides in this docs/ folder:
 
+- **octoacme-project-management-overview.md** — High-level overview of principles, core roles, and lifecycle
 - **octoacme-project-initiation.md** — Starting new projects with one-pagers and stakeholder alignment
 - **octoacme-project-planning.md** — Creating actionable backlogs and release plans
 - **octoacme-execution-and-tracking.md** — Day-to-day workflows and project board management
