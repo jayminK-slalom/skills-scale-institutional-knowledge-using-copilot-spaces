@@ -14,7 +14,7 @@ At OctoAcme, we follow a customer-first, iterative delivery approach with clear 
 
 ## Key Roles and Artifacts
 
-**Roles**: Our cross-functional teams include **Project Managers** (PMs) who coordinate delivery, schedules, risks, and communications; **Product Managers** (PdMs) who define outcomes, prioritize the backlog, and measure success; **Developers** who implement features and maintain quality through testing and code reviews; **QA/Testing** specialists who validate acceptance criteria; and **Stakeholders** who provide inputs and approvals.
+**Roles**: Our cross-functional teams include **Project Managers** (PMs) who coordinate delivery, schedules, risks, and communications; **Product Managers** (PdMs) who define outcomes, prioritize the backlog, and measure success; **Developers** who implement features and maintain quality through testing and code reviews; **Scrum Masters** who facilitate Agile rituals and remove impediments (when using Agile); **Business Analysts** (BAs) who clarify requirements and bridge stakeholder-team gaps; **UX Designers** who create intuitive user experiences; **Sponsors** who provide executive oversight and strategic direction; and **Stakeholders** who provide inputs and approvals.
 
 **Artifacts**: Essential artifacts include the Project Charter/One-pager, Roadmap and Release Plan, Sprint Backlog with acceptance criteria, Risk Register, and Retrospective action items. These documents serve as our single source of truth and are maintained in project repositories, with process-specific guidance stored in `.copilot/` directories for Copilot Spaces context.
 
@@ -31,12 +31,14 @@ At OctoAcme, we follow a customer-first, iterative delivery approach with clear 
 To dive deeper into any aspect of our project management approach, explore the detailed guides in this docs/ folder:
 
 - **octoacme-project-management-overview.md** — High-level overview of principles, core roles, and lifecycle
+- **octoacme-roles-and-personas.md** — Detailed role descriptions, responsibilities, and interaction matrix for all team roles
 - **octoacme-project-initiation.md** — Starting new projects with one-pagers and stakeholder alignment
 - **octoacme-project-planning.md** — Creating actionable backlogs and release plans
 - **octoacme-execution-and-tracking.md** — Day-to-day workflows and project board management
 - **octoacme-release-and-deployment.md** — Production deployment standards and rollback procedures
 - **octoacme-retrospective-and-continuous-improvement.md** — Learning loops and action item tracking
 - **octoacme-risks-and-communication.md** — Stakeholder management and risk mitigation strategies
-- **octoacme-roles-and-personas.md** — Detailed role descriptions and responsibilities
+- **role-onboarding-guide.md** — Comprehensive onboarding checklist for all roles
+- **role-handoff-checklist.md** — Ensuring smooth transitions when team members change roles
 
 These resources will help you quickly get up to speed with OctoAcme's collaborative, transparent approach to delivering customer value.
